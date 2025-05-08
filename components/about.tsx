@@ -149,12 +149,12 @@ export default function About() {
                       <Lightbulb className="h-6 w-6 text-accent" />
                     </div>
                     <div>
-                      <h4 className="text-xl font-semibold mb-2">Personal Profile</h4>
+                      <h4 className="text-xl font-semibold mb-2">Contact</h4>
                       <p className="text-muted-foreground">
-                        Date of Birth: Nov 18th 2005
+                        Mobile: 9384799275
                         <br />
-                        Father's Name: Selvakumaran. A<br />
-                        Address: No 19, Buddhar Street, East Tambaram, Chennai -600 059
+                        Email: rohit.selvakumaran@gmail.com<br />
+                        
                       </p>
                     </div>
                   </div>

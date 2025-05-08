@@ -50,6 +50,7 @@ export default function TechStack() {
         { name: "Flask", level: 90 },
         { name: "Node.js", level: 85 },
         { name: "Express.js", level: 85 },
+        { name: "Fast API", level: 90 },
       ],
     },
     database: {

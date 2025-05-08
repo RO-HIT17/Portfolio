@@ -24,7 +24,7 @@ export default function Projects() {
       shortDescription: "AI-powered voice assistant with natural language processing.",
       description:
         "AI-powered voice assistant with natural language processing to understand and respond to complex commands.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/AI voice assistant.png?height=400&width=600",
       tags: ["Python", "AI", "NLP"],
       features: [
         "Natural language processing",
@@ -40,7 +40,7 @@ export default function Projects() {
       shortDescription: "Interactive game demonstrating advanced data structures and algorithms.",
       description:
         "Interactive game demonstrating advanced data structures and algorithms for complex problem-solving.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/maze.png?height=400&width=600",
       tags: ["C", "DSA"],
       features: [
         "Pathfinding algorithms",
@@ -55,7 +55,7 @@ export default function Projects() {
       title: "AI Sentiment Analysis",
       shortDescription: "Cross-platform UI for analyzing text sentiment using AI.",
       description: "Cross-platform UI for analyzing text sentiment using AI to provide actionable insights.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/sentiment anaylsis 3.png?height=400&width=600",
       tags: ["TypeScript", "Node.js", "AI"],
       features: [
         "Real-time sentiment analysis",
@@ -70,7 +70,7 @@ export default function Projects() {
       title: "Sports League Management",
       shortDescription: "System for managing teams, leagues, and player statistics.",
       description: "System for managing teams, leagues, and player statistics with real-time updates.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/sportsleague.png?height=400&width=600",
       tags: ["React", "Node.js", "Database"],
       features: [
         "Team management",
@@ -85,7 +85,7 @@ export default function Projects() {
       title: "Legal Cases Management",
       shortDescription: "Platform for law firms to manage legal cases and documents.",
       description: "Platform for law firms to manage legal cases, documents, and client information efficiently.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/legalcases.png?height=400&width=600",
       tags: ["TypeScript", "Node.js", "PostgreSQL"],
       features: [
         "Case management",
@@ -100,7 +100,7 @@ export default function Projects() {
       title: "Vision Solve AI",
       shortDescription: "AI EdTech platform offering dynamic video explanations.",
       description: "AI EdTech platform offering dynamic video explanations, currently transitioning into a startup.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/image.png?height=400&width=600",
       tags: ["FastAPI", "PostgreSQL", "Docker"],
       features: [
         "Dynamic video explanations",

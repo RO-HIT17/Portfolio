@@ -20,7 +20,7 @@ export default function Hackathons() {
       content:
         "Developed AI hands-free assistant focusing on accessibility, automation, voice control, navigation, and object recognition.",
       level: "State Level",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/nexus.png?height=100&width=100",
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ export default function Hackathons() {
       content:
         "Built AI healthcare app with scheduling, history tracking, and bilingual support. Our team achieved runner-up position.",
       level: "State Level",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/spark.png?height=100&width=100",
     },
     {
       id: 3,
@@ -38,7 +38,7 @@ export default function Hackathons() {
       content:
         "Worked on AI job recommendation and skill assessment platform to help match candidates with appropriate positions based on their skills.",
       level: "National Level",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/sih.png?height=100&width=100",
     },
     {
       id: 4,
@@ -47,7 +47,7 @@ export default function Hackathons() {
       content:
         "Contributed to sustainability project focused on solar energy solutions. Our project received a Special Mention from the judges.",
       level: "State Level",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/trix24.png?height=100&width=100",
     },
     {
       id: 5,
@@ -56,7 +56,7 @@ export default function Hackathons() {
       content:
         "Developed Vision Solve AI edtech platform offering dynamic video explanations. Our team won an internship opportunity.",
       level: "State Level",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/itrix25.png?height=100&width=100",
     },
   ]
 
